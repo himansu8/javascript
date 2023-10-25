@@ -25,4 +25,5 @@ person.getbio2().b();   //normal function
 /*
 Arrow function doesnot bind to their own "this".it is binding to parents object.
 
+
 */
