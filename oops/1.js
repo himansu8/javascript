@@ -8,3 +8,4 @@ const bootcamp = {
     }
 }
 bootcamp.getfullname();
+
