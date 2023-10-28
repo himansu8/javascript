@@ -1,0 +1,3 @@
+/*
+fat arrow function
+*/
